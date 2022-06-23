@@ -22,7 +22,7 @@ This is a solution to the [REST Countries API with color theme switcher](https:/
 
 ### Links
 
-- Live Site URL: [Github Pages](https://rest-countries-8180b.web.app/)
+- Live Site URL: [Github Pages](https://ma7moudemam.github.io/advice-generator/)
 
 
 ## Author
